@@ -43,10 +43,6 @@ The dataset used in this project is **"Crimes in Los Angeles 2020-2023"** from K
 Crime_Analysis/
 │-- data/
 │   ├── crime_data.csv  # Raw crime data
-│-- scripts/
-│   ├── data_cleaning.py  # Preprocessing steps
-│   ├── eda.py  # Exploratory Data Analysis
-│-- app.py  # Streamlit application
 │-- requirements.txt  # Dependencies
 │-- README.md  # Project documentation
 ```
@@ -64,12 +60,4 @@ Crime_Analysis/
 - Integrate real-time crime data updates.
 - Add more geospatial visualizations.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions, reach out to **Haritha** via GitHub Issues or email.
 
